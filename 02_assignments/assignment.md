@@ -58,6 +58,7 @@ I was able of find all the words.
 
 ## @mentions of the person or team responsible for reviewing proposed changes (At least 2 people)
 - @dtxe
+- droumich99@gmail.com
 
 ## Checklist
 - [x] I can confirm that my changes are working as intended
