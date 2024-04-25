@@ -37,7 +37,30 @@ You are stuck in a virtual room and can only leave if you figure out the passwor
 Your answer here...
 **The password is "Paper Rings season_10 Meets and Lucky the".**
 
+TITLE: UofT-DSI | shell - Assignment 1
 
+## What changes are you trying to make? (e.g. Adding or removing code, refactoring existing code, adding reports)
+I am using bash to discover the secret password.
+
+## What did you learn from the changes you have made?
+I learn how to use bash commands.
+
+## Was there another approach you were thinking about making? If so, what approach(es) were you thinking of?
+I was thinking of using others bash commands.
+
+## Were there any challenges? If so, what issue(s) did you face? How did you overcome it?
+The issue was to remember the commands. I used the Bash-Cheat-Sheet.
+
+## How were these changes tested?
+I was able of find all the words.
+
+## A reference to a related issue in your repository (if applicable)
+
+## @mentions of the person or team responsible for reviewing proposed changes (At least 2 people)
+- @dtxe
+
+## Checklist
+- [x] I can confirm that my changes are working as intended
 
 
 ```
